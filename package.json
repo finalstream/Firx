@@ -1,9 +1,9 @@
 {
   "name": "firx",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Electron Application Develop Support Libraries",
-  "main": "./index.js",
-  "types": "./index.d.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "dependencies": {
     "electron-store": "^5.1.1"
   },
