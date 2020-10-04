@@ -1,6 +1,6 @@
 {
   "name": "firx",
-  "version": "0.0.9",
+  "version": "0.1.4",
   "description": "Electron Application Develop Support Libraries",
   "main": "index.js",
   "types": "index.d.ts",
